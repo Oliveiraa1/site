@@ -62,4 +62,12 @@ footer img {
 .menu:hover a {
     color: black;
 }
-
+html abbr {
+    color: black;
+}
+.index {
+    font-size: 36px;
+}
+.index1 {
+    font-size: 36px;
+}
